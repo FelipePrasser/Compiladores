@@ -1,0 +1,11 @@
+GCC	|Tempo de Compilação|Tempo de Execução|		CLANG	|Tempo de Compilação|Tempo de Execução|
+	|0m0,079s 	    |0m4,088s	      |			|
+	|0m0,092s	    |0m4,141s	      |
+	|0m0,095s	    |0m4,105s	      |
+	|0m0,097s	    |0m4,096s	      |
+	|0m0,077s	    |0m4,104s	      |
+	|0m0,079s	    |0m4,101s	      |
+	|0m0,077s	    |0m4,092s	      |
+	|0m0,064s	    |0m4,101s	      |
+	|0m0,102s	    |0m4,126s	      |
+	|0m0,098s	    |0m4,101s	      |
